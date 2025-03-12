@@ -28,6 +28,8 @@ Welcome to the **ibutton brute** repository! 🎉 Dive into the world of ibutton
 ## 🚀 What Can You Do with This?
 This device allows you to send keys from the list by emulating them using the Dallas 1990 protocol, which makes it possible to open intercoms running on this protocol (if the intercom is not protected from such)
 
+*(In fact, this is a parody of the [iButton fuzzer](https://github.com/xMasterX/ibutton-fuzzer), but implemented on the Arduino, because not everyone has the opportunity to purchase a Flipper Zero)*
+
 -----
 
 ## 📋 List of Components
@@ -66,12 +68,13 @@ Follow these steps to flash the firmware:
 1. Download the firmware from the **releases**
 2. download [xLoader](https://github.com/binaryupdates/xLoader) and run XLoader.exe
 3. In the input fields, select the data as in the table
-| **Column Name** | **Data**                                                           |
-|-----------------|--------------------------------------------------------------------|
-|**Hex file**         |Select the downloaded **firmware file**                             |
+
+| **Column Name** | **Data**                                                                  |
+|-----------------|---------------------------------------------------------------------------|
+|**Hex file**         |Select the downloaded **firmware file**                                |
 |**Device**           |Select your device *(**Duemilanove/Nano(ATmega328)** for arduino nano)*|
-|**COM port**         |Select the port that the device is connected to                 |
-|**Baud rate**        |115200                                                          |
+|**COM port**         |Select the port that the device is connected to                        |
+|**Baud rate**        |115200                                                                 |
 
 ![xLoader](img/xLoader)
 
