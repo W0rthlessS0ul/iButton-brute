@@ -66,7 +66,7 @@ To bring this project to life, you will need the following components:
 ## 📦 Flash Firmware
 Follow these steps to flash the firmware:
 1. Download the firmware from the **releases**
-2. download [xLoader](https://github.com/binaryupdates/xLoader) and run XLoader.exe
+2. Download [xLoader](https://github.com/binaryupdates/xLoader) and run XLoader.exe
 3. In the input fields, select the data as in the table
 
 | **Column Name** | **Data**                                                                  |
@@ -83,6 +83,8 @@ Follow these steps to flash the firmware:
 ## 🎉 Final Outcome
 
 ![device](img/device.png)
+
+![action](img/action.png)
 
 -----
 
