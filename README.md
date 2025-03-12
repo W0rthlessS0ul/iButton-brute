@@ -66,12 +66,12 @@ Follow these steps to flash the firmware:
 1. Download the firmware from the **releases**
 2. download [xLoader](https://github.com/binaryupdates/xLoader) and run XLoader.exe
 3. In the input fields, select the data as in the table
-| **Column Name** | **Data**                                                           |
-|-----------------|--------------------------------------------------------------------|
-|**Hex file**         |Select the downloaded **firmware file**                             |
+| **Column Name** | **Data**                                                                  |
+|-----------------|---------------------------------------------------------------------------|
+|**Hex file**         |Select the downloaded **firmware file**                                |
 |**Device**           |Select your device *(**Duemilanove/Nano(ATmega328)** for arduino nano)*|
-|**COM port**         |Select the port that the device is connected to                 |
-|**Baud rate**        |115200                                                          |
+|**COM port**         |Select the port that the device is connected to                        |
+|**Baud rate**        |115200                                                                 |
 
 -----
 
