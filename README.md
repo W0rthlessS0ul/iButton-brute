@@ -2,7 +2,8 @@
   <img src="https://avatars.githubusercontent.com/u/176677387" width="150" height="auto" />
   <h1> 🌟 nRF24 Jammer 🌟 </h1>
 </div>
-Welcome to the **ibutton brute** repository! 🎉 Dive into the world of ibutton technology with this unique project based on Arduino.
+
+Welcome to the **ibutton brute** repository! 🎉 Dive into the world of iButton technology with this project based on Arduino.
 
 ## 📚 Table of Contents
 - [🎯 Possible Additions](#-possible-additions)
