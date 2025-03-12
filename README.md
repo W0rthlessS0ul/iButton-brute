@@ -73,6 +73,8 @@ Follow these steps to flash the firmware:
 |**COM port**         |Select the port that the device is connected to                 |
 |**Baud rate**        |115200                                                          |
 
+![xLoader](img/xLoader)
+
 -----
 
 ## 🎉 Final Outcome
