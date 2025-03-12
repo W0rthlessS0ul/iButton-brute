@@ -27,6 +27,7 @@ Welcome to the **ibutton brute** repository! 🎉 Dive into the world of ibutton
 
 ## 🚀 What Can You Do with This?
 This device allows you to send keys from the list by emulating them using the Dallas 1990 protocol, which makes it possible to open intercoms running on this protocol (if the intercom is not protected from such)
+
 *(In fact, this is a parody of the [iButton fuzzer](https://github.com/xMasterX/ibutton-fuzzer), but implemented on the Arduino, because not everyone has the opportunity to purchase a Flipper Zero.)*
 
 -----
